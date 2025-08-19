@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on web development,programming languages,frameworks and tools.
 - 👯 I’m looking to collaborate on open source ccontributions.
 - 💬 Ask me about web development and latest technologies.
-- 🌍 Based in Kenya, collaborating globally.
+- 🌍 Based in Nairobi Kenya, collaborating globally.
 - ⚡ Fun fact: chess enthusiast.
 
 ## 📫 Connect with me
